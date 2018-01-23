@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 7bc64723ff0556a449b34c69a221c5c9
+timeCreated: 1503693719
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: pasted__polySurface179
+    100002: //RootNode
+    100004: Tracks
+    100006: Turret
+    100008: Wheels
+    100010: Barrel
+    100012: Gun
+    100014: Pz_IV_G_Barrel
+    100016: Pz_IV_G_Gun
+    100018: Pz_IV_G_Tracks
+    100020: Pz_IV_G_Turret
+    100022: Pz_IV_G_Wheels
+    400000: pasted__polySurface179
+    400002: //RootNode
+    400004: Tracks
+    400006: Turret
+    400008: Wheels
+    400010: Barrel
+    400012: Gun
+    400014: Pz_IV_G_Barrel
+    400016: Pz_IV_G_Gun
+    400018: Pz_IV_G_Tracks
+    400020: Pz_IV_G_Turret
+    400022: Pz_IV_G_Wheels
+    2300000: pasted__polySurface179
+    2300002: //RootNode
+    2300004: Tracks
+    2300006: Turret
+    2300008: Wheels
+    2300010: Barrel
+    2300012: Gun
+    2300014: Pz_IV_G_Barrel
+    2300016: Pz_IV_G_Gun
+    2300018: Pz_IV_G_Tracks
+    2300020: Pz_IV_G_Turret
+    2300022: Pz_IV_G_Wheels
+    3300000: pasted__polySurface179
+    3300002: //RootNode
+    3300004: Tracks
+    3300006: Turret
+    3300008: Wheels
+    3300010: Barrel
+    3300012: Gun
+    3300014: Pz_IV_G_Barrel
+    3300016: Pz_IV_G_Gun
+    3300018: Pz_IV_G_Tracks
+    3300020: Pz_IV_G_Turret
+    3300022: Pz_IV_G_Wheels
+    4300000: Pz_IV_G
+    4300002: pasted__polySurface179
+    4300004: Wheels
+    4300006: Tracks
+    4300008: Turret
+    4300010: Gun
+    4300012: Barrel
+    4300014: Pz_IV_G_Wheels
+    4300016: Pz_IV_G_Tracks
+    4300018: Pz_IV_G_Turret
+    4300020: Pz_IV_G_Gun
+    4300022: Pz_IV_G_Barrel
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

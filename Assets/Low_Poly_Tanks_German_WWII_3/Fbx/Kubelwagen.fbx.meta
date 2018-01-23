@@ -1,0 +1,172 @@
+fileFormatVersion: 2
+guid: 9115c0bf9c9e0624aa121e2ba562551d
+timeCreated: 1503691966
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Door_FL
+    100002: Door_FR
+    100004: Door_RL
+    100006: Door_RR
+    100008: //RootNode
+    100010: Wheel_FL
+    100012: Wheel_FR
+    100014: Wheel_Mask
+    100016: Wheel_RL
+    100018: Wheel_RR
+    100020: Kubelwagen_Door_FL
+    100022: Kubelwagen_Door_FR
+    100024: Kubelwagen_Door_RL
+    100026: Kubelwagen_Door_RR
+    100028: Kubelwagen_Wheel_FL
+    100030: Kubelwagen_Wheel_FR
+    100032: Kubelwagen_Wheel_Mask
+    100034: Kubelwagen_Wheel_RL
+    100036: Kubelwagen_Wheel_RR
+    400000: Door_FL
+    400002: Door_FR
+    400004: Door_RL
+    400006: Door_RR
+    400008: //RootNode
+    400010: Wheel_FL
+    400012: Wheel_FR
+    400014: Wheel_Mask
+    400016: Wheel_RL
+    400018: Wheel_RR
+    400020: Kubelwagen_Door_FL
+    400022: Kubelwagen_Door_FR
+    400024: Kubelwagen_Door_RL
+    400026: Kubelwagen_Door_RR
+    400028: Kubelwagen_Wheel_FL
+    400030: Kubelwagen_Wheel_FR
+    400032: Kubelwagen_Wheel_Mask
+    400034: Kubelwagen_Wheel_RL
+    400036: Kubelwagen_Wheel_RR
+    2300000: Door_FL
+    2300002: Door_FR
+    2300004: Door_RL
+    2300006: Door_RR
+    2300008: //RootNode
+    2300010: Wheel_FL
+    2300012: Wheel_FR
+    2300014: Wheel_Mask
+    2300016: Wheel_RL
+    2300018: Wheel_RR
+    2300020: Kubelwagen_Door_FL
+    2300022: Kubelwagen_Door_FR
+    2300024: Kubelwagen_Door_RL
+    2300026: Kubelwagen_Door_RR
+    2300028: Kubelwagen_Wheel_FL
+    2300030: Kubelwagen_Wheel_FR
+    2300032: Kubelwagen_Wheel_Mask
+    2300034: Kubelwagen_Wheel_RL
+    2300036: Kubelwagen_Wheel_RR
+    3300000: Door_FL
+    3300002: Door_FR
+    3300004: Door_RL
+    3300006: Door_RR
+    3300008: //RootNode
+    3300010: Wheel_FL
+    3300012: Wheel_FR
+    3300014: Wheel_Mask
+    3300016: Wheel_RL
+    3300018: Wheel_RR
+    3300020: Kubelwagen_Door_FL
+    3300022: Kubelwagen_Door_FR
+    3300024: Kubelwagen_Door_RL
+    3300026: Kubelwagen_Door_RR
+    3300028: Kubelwagen_Wheel_FL
+    3300030: Kubelwagen_Wheel_FR
+    3300032: Kubelwagen_Wheel_Mask
+    3300034: Kubelwagen_Wheel_RL
+    3300036: Kubelwagen_Wheel_RR
+    4300000: Kubelwagen
+    4300002: Door_FL
+    4300004: Door_RL
+    4300006: Door_FR
+    4300008: Door_RR
+    4300010: Wheel_Mask
+    4300012: Wheel_FL
+    4300014: Wheel_RL
+    4300016: Wheel_RR
+    4300018: Wheel_FR
+    4300020: Kubelwagen_Door_FL
+    4300022: Kubelwagen_Door_RL
+    4300024: Kubelwagen_Door_FR
+    4300026: Kubelwagen_Door_RR
+    4300028: Kubelwagen_Wheel_Mask
+    4300030: Kubelwagen_Wheel_FL
+    4300032: Kubelwagen_Wheel_RL
+    4300034: Kubelwagen_Wheel_RR
+    4300036: Kubelwagen_Wheel_FR
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
