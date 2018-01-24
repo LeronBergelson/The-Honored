@@ -2,7 +2,7 @@
 Created using the cross-platform game engine, Unity, The Honored is a self-developed, 3D Based Game, that utilizes standard car combat features and themes based on the second world war.
 
 ## Game Objectives:
-Your objective is to infiltrate a small town near Berchtesgaden, Germany in a M3a1 scout car to obtain a strong hold for the allied forces. There are going to be German scouts and tanks patrolling the city and you and your squad need to go in and take down enemy presence in the early hours of morning. Stay clear of enemy fire and complete the mission in one piece.
+Your objective is to infiltrate a small town near Berchtesgaden, Germany in a M3a1 scout car to obtain a strong hold for the allied forces. There are going to be German scouts and tanks patrolling the city and you and your squad need to go in and take down all enemy presence in the early hours of morning. You have 10 minutes to successfully complete the mission.
 
 
 ## Enemies:
