@@ -20,3 +20,25 @@ Mines will detonate and severely reduce player health upon contact.
 Oil Barrels will detonate and severely reduce player health upon any bullet contact if found near blast radius. Barrels can be detonated by the player shooting at them or if hit by enemy bullets that missed the player.  
 #### Map Fog:
 Map Fog is the third hazard implemented allowing poor visibility which would make it harder to spot enemies and planted mines.
+
+![shot22](https://user-images.githubusercontent.com/19450714/35419513-42333716-0206-11e8-9d63-3378aba37827.png)
+![shot12](https://user-images.githubusercontent.com/19450714/35419459-13c50a30-0206-11e8-9623-16976a3012b6.jpg)
+![shot1](https://user-images.githubusercontent.com/19450714/35419495-40f61134-0206-11e8-9084-c4f0119500ca.jpg)
+![shot2](https://user-images.githubusercontent.com/19450714/35419496-41103cb2-0206-11e8-9896-dc99516ab844.jpg)
+![shot3](https://user-images.githubusercontent.com/19450714/35419497-41214bd8-0206-11e8-9372-f6e5f5934ba8.jpg)
+![shot4](https://user-images.githubusercontent.com/19450714/35419499-413379ca-0206-11e8-909b-5fd42e658812.jpg)
+![shot5](https://user-images.githubusercontent.com/19450714/35419500-414eb38e-0206-11e8-8ea2-79bac2ef4f21.jpg)
+![shot6](https://user-images.githubusercontent.com/19450714/35419501-415eb478-0206-11e8-9249-953e3ac5d8ac.jpg)
+![shot7](https://user-images.githubusercontent.com/19450714/35419502-416f521a-0206-11e8-9788-8b03c82b104f.jpg)
+![shot9](https://user-images.githubusercontent.com/19450714/35419504-4196c21e-0206-11e8-8e91-e989c9a47e01.jpg)
+![shot10](https://user-images.githubusercontent.com/19450714/35419505-41a415d6-0206-11e8-9b4c-918ef51823f1.jpg)
+![shot11](https://user-images.githubusercontent.com/19450714/35419506-41b3443e-0206-11e8-8fa5-784e9b5d4a23.jpg)
+
+![shot15](https://user-images.githubusercontent.com/19450714/35419509-41eb06b2-0206-11e8-8bca-c818e024fe14.jpg)
+![shot17](https://user-images.githubusercontent.com/19450714/35419510-41fdee80-0206-11e8-9caa-8288fa2cc00f.jpg)
+![shot19](https://user-images.githubusercontent.com/19450714/35419511-4211c806-0206-11e8-8685-0a7ed3e0e656.jpg)
+![shot20](https://user-images.githubusercontent.com/19450714/35419512-42235bac-0206-11e8-8589-a50e813ac7d0.jpg)
+
+![shot13](https://user-images.githubusercontent.com/19450714/35419507-41c5bac4-0206-11e8-99d3-f8acfd3461d3.jpg)
+![shot14](https://user-images.githubusercontent.com/19450714/35419508-41d9bfb0-0206-11e8-8605-6f1f465c7291.jpg)
+
