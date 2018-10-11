@@ -38,7 +38,6 @@ Map Fog is the third hazard implemented allowing poor visibility which would mak
 ![shot17](https://user-images.githubusercontent.com/19450714/35419510-41fdee80-0206-11e8-9caa-8288fa2cc00f.jpg)
 ![shot19](https://user-images.githubusercontent.com/19450714/35419511-4211c806-0206-11e8-8685-0a7ed3e0e656.jpg)
 ![shot20](https://user-images.githubusercontent.com/19450714/35419512-42235bac-0206-11e8-8589-a50e813ac7d0.jpg)
-
-![shot13](https://user-images.githubusercontent.com/19450714/35419507-41c5bac4-0206-11e8-99d3-f8acfd3461d3.jpg)
+![the honored 2018-10-11 9_50_12 am](https://user-images.githubusercontent.com/19450714/46808912-68cf9800-cd3b-11e8-8cb2-78e925be7d21.png)
 ![shot14](https://user-images.githubusercontent.com/19450714/35419508-41d9bfb0-0206-11e8-8605-6f1f465c7291.jpg)
 
